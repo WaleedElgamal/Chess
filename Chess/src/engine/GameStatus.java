@@ -1,0 +1,5 @@
+package engine;
+
+public enum GameStatus {
+	ONGOING, INSUFFICIENT_MATERIAL, STALEMATE, WHITE_CHECKMATE, BLACK_CHECKMATE
+}
